@@ -21,3 +21,4 @@ if __name__ == "__main__":
     print(f"Generated Prompt: {prompt}")
     pipeline.run_pipeline()
 # Updated pipeline config
+# Updated pipeline config
