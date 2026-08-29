@@ -20,3 +20,4 @@ if __name__ == "__main__":
     prompt = pipeline.generate_script_prompt("AI Video Tools")
     print(f"Generated Prompt: {prompt}")
     pipeline.run_pipeline()
+# Updated pipeline config
